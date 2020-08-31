@@ -1,0 +1,77 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-ana-blue {
+    width: 87px;
+    height: 99px;
+    background-position: -5px -5px;
+}
+
+.sprite-ana-green {
+    width: 87px;
+    height: 99px;
+    background-position: -5px -114px;
+}
+
+.sprite-dashboard-blue {
+    width: 85px;
+    height: 99px;
+    background-position: -5px -223px;
+}
+
+.sprite-dashboard-green {
+    width: 85px;
+    height: 99px;
+    background-position: -5px -332px;
+}
+
+.sprite-message-blue {
+    width: 94px;
+    height: 99px;
+    background-position: -5px -441px;
+}
+
+.sprite-message-green {
+    width: 94px;
+    height: 99px;
+    background-position: -5px -550px;
+}
+
+.sprite-page-blue {
+    width: 94px;
+    height: 99px;
+    background-position: -5px -659px;
+}
+
+.sprite-page-green {
+    width: 94px;
+    height: 99px;
+    background-position: -5px -768px;
+}
+
+.sprite-people-blue {
+    width: 91px;
+    height: 99px;
+    background-position: -5px -877px;
+}
+
+.sprite-people-green {
+    width: 91px;
+    height: 99px;
+    background-position: -5px -986px;
+}
+
+.sprite-promo-blue {
+    width: 90px;
+    height: 99px;
+    background-position: -5px -1095px;
+}
+
+.sprite-promo-green {
+    width: 90px;
+    height: 99px;
+    background-position: -5px -1204px;
+}
